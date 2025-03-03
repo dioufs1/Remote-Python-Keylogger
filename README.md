@@ -47,12 +47,4 @@ As you can see, it displays the recorded keystrokes of the credentials!:  <br/>
 Now there you have a simple keylogger built with Python using Pycharm, capturing and logging keystrokes for educational purposes. Remember to use this knowledge ethically and responsibly 😁
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
